@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\bin\Release\netcoreapp2.0\IndexEngine.deps.json
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\bin\Release\netcoreapp2.0\IndexEngine.dll
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\bin\Release\netcoreapp2.0\IndexEngine.pdb
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.dll
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.pdb
+C:\Users\yusuf\source\repos\AraBul\IndexEngine\obj\Release\netcoreapp2.0\IndexEngine.csprojAssemblyReference.cache

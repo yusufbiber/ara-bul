@@ -1,0 +1,20 @@
+﻿@model SearchResult
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<br />
+
+@if (Model.files != null) {
+    int i = 0;
+    foreach (IndexEngine.IndexHost item in Model.files)
+    {
+        i++;
+       @item.Key <br />
+                 <ul>
+                     @item.files[0]
+                 </ul>
+
+        //<span>>@item.Content</span>
+    }
+}

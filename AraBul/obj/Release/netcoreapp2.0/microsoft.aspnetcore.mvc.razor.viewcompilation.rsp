@@ -1,0 +1,12 @@
+C:\Users\yusuf\source\repos\AraBul\AraBul
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=AraBul
+--content-root=C:\Users\yusuf\source\repos\AraBul\AraBul
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Home\About.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Home\Contact.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Home\Index.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Shared\Error.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Shared\_Layout.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\_ViewImports.cshtml
+--file=C:\Users\yusuf\source\repos\AraBul\AraBul\Views\_ViewStart.cshtml

@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\AraBul.deps.json
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\AraBul.runtimeconfig.json
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\AraBul.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\AraBul.dll
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\AraBul.pdb
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\IndexEngine.dll
+C:\Users\yusuf\source\repos\AraBul\AraBul\bin\Release\netcoreapp2.0\IndexEngine.pdb
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.csproj.CopyComplete
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.dll
+C:\Users\yusuf\source\repos\AraBul\AraBul\obj\Release\netcoreapp2.0\AraBul.pdb
